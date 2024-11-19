@@ -1,0 +1,10 @@
+{
+	"name": "dlwolfsandbox",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://dlwolfsandbox.dfs.core.windows.net/"
+		}
+	}
+}
