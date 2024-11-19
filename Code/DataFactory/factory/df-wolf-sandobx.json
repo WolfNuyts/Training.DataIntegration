@@ -1,0 +1,9 @@
+{
+	"name": "df-wolf-sandobx",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f726face-35a6-475c-a223-9df2281a89bf",
+		"tenantId": "9568e85e-b961-4c5f-ae4a-0937431e9b64"
+	}
+}
